@@ -1,5 +1,5 @@
-- ⛩️ CyberSecutiry Student && Pentester ⛩️
-- 🐱‍👤 BlackReaper > Since 2020
+- ⛩️ CyberSecurity Student && Pentester ⛩️
+- 🐱‍👤 BlackReaper >> Since 2020
 - 🕋 Discord: BlackReaper#0001
 - 🐦 Twitter: @BlackReaperSK
 
