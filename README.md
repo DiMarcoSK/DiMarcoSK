@@ -7,6 +7,7 @@
 
 Atualmente estudando Offensive Security, Assembly e C#;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackreapersk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
