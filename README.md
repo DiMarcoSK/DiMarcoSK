@@ -5,9 +5,10 @@
 - 🕋 Discord: BlackReaper#0001
 - 🐦 Twitter: @BlackReaperSK
 
-Atualmente estudando Offensive Security, Assembly e C#;
+Atualmente estudando Offensive Security, Assembly e C/C#;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackreapersk)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=blackreapersk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackreapersk&layout=compact&theme=tokyonight)
 
 
 <!---
