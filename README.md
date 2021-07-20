@@ -1,4 +1,4 @@
-## Felipe "BlackReaper" Sousa
+## Felipe Sousa [BlackReaper]
 - ⛩️ CyberSecurity Student && Pentester ⛩️
 - 🐱‍👤 BlackReaper >> Since 2020
 - 🕋 Discord: BlackReaper#0001
