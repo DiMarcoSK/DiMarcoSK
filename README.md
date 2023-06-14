@@ -24,13 +24,15 @@ Hello! Welcome to my GitHub profile. I'm BlackReaper, a Pentester and Informatio
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7518?logo=burpsuite&logoColor=white&style=for-the-badge)
 
-### GitHub Statistics
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackReaperSK&show_icons=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackReaperSK&layout=compact&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackReaperSK&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackReaperSK&layout=compact&theme=dark&langs_count=4" alt="Top Languages" width="44%" />
+</p>
 
-### Contact Me
+## Contact Me
 
-Feel free to reach out to me on Twitter [@BlackReaperSK](https://twitter.com/BlackReaperSK) or on Discord (BlackReaperSK).
+Feel free to reach out to me on Twitter [@BlackReaperSK](https://twitter.com/BlackReaperSK) or on Discord (BlackReaperSK). 
 
 Let's connect and make the digital world safer together!
