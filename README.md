@@ -1,57 +1,9 @@
-## Pentester and Information Security Professional  
-  
-
-<a href="https://github.com/BlackReaperSK" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/blackreapersk" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/felipesousadimarco" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/BlackReaperSK" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+# Pentester and Information Security Professional
 
 ### Hello, glad you here!  
 I'm a seasoned Pentester and Information Security Professional who has turned years of experience into a dedicated career. Being a pentester allows me to not only identify vulnerabilities but also craft practical and intuitive security solutions.
 
 I specialize in creating efficient and secure solutions designed for swift implementation. I love developing robust security systems that are both powerful and effective, ensuring your digital assets are well-protected. I am passionate about pentesting and frequently work on projects that involve vulnerability analysis, threat intelligence, and system hardening. Feel free to raise an issue or get in touch.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Simple DAST Tool](https://github.com/BlackReaperSK/simple_dast)  
-  
-
-- 💻 Threat Intel and Threat Hunting Enthusiast  
-  
-
-- 🌑 Lua Script is my secret passion  
-  
-
-- ⚡ Focused on Web Application Security   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github-readme-utils.vercel.app/api/gif/anime" align="center" height="200" width="200" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -94,6 +46,6 @@ I specialize in creating efficient and secure solutions designed for swift imple
 
 ## Contact Me
 
-For further engagement, you can connect with me on Twitter [@BlackReaperSK](https://twitter.com/BlackReaperSK), or reach out to me on Discord (BlackReaperSK).
+For further engagement, you can connect with me on Twitter [@BlackReaperSK](https://twitter.com/BlackReaperSK).
 
 Let's establish a connection and work collaboratively towards making the digital landscape more secure. Feel free to initiate a conversation, share insights, or collaborate on projects. Together, we can contribute to a safer digital world ❤️
