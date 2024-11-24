@@ -40,12 +40,12 @@ I specialize in creating efficient and secure solutions designed for swift imple
 ## GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackReaperSK&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackReaperSK&layout=compact&theme=dark&langs_count=4" alt="Top Languages" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiMarcoSK&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiMarcoSK&layout=compact&theme=dark&langs_count=4" alt="Top Languages" width="44%" />
 </p>
 
 ## Contact Me
 
-For further engagement, you can connect with me on Twitter [@BlackReaperSK](https://twitter.com/BlackReaperSK).
+For further engagement, you can connect with me on Twitter [@DiMarcoSK](https://twitter.com/DiMarcoSK).
 
 Let's establish a connection and work collaboratively towards making the digital landscape more secure. Feel free to initiate a conversation, share insights, or collaborate on projects. Together, we can contribute to a safer digital world ❤️
